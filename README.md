@@ -1,2 +1,2 @@
-# Infytq-Coding-practice
-InfyTQ Coding Question Preparation 
+# Daily-Coding-practice
+Daily DSA and Coding Preparation
